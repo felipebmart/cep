@@ -1,0 +1,17 @@
+/home/felipe/projetos/dopstercep/dopstercep.Application/obj/Debug/net5.0/dopstercep.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/projetos/dopstercep/dopstercep.Application/obj/Debug/net5.0/dopstercep.Application.AssemblyInfoInputs.cache
+/home/felipe/projetos/dopstercep/dopstercep.Application/obj/Debug/net5.0/dopstercep.Application.AssemblyInfo.cs
+/home/felipe/projetos/dopstercep/dopstercep.Application/obj/Debug/net5.0/dopstercep.Application.csproj.CoreCompileInputs.cache
+/home/felipe/projetos/dopstercep/dopstercep.Application/obj/Debug/net5.0/dopstercep.Application.csprojAssemblyReference.cache
+/home/felipe/projetos/dopstercep/dopstercep.Application/bin/Debug/net5.0/dopstercep.Application.deps.json
+/home/felipe/projetos/dopstercep/dopstercep.Application/bin/Debug/net5.0/dopstercep.Application.dll
+/home/felipe/projetos/dopstercep/dopstercep.Application/bin/Debug/net5.0/ref/dopstercep.Application.dll
+/home/felipe/projetos/dopstercep/dopstercep.Application/bin/Debug/net5.0/dopstercep.Application.pdb
+/home/felipe/projetos/dopstercep/dopstercep.Application/bin/Debug/net5.0/dopstercep.Domain.dll
+/home/felipe/projetos/dopstercep/dopstercep.Application/bin/Debug/net5.0/dopstercep.Service.dll
+/home/felipe/projetos/dopstercep/dopstercep.Application/bin/Debug/net5.0/dopstercep.Domain.pdb
+/home/felipe/projetos/dopstercep/dopstercep.Application/bin/Debug/net5.0/dopstercep.Service.pdb
+/home/felipe/projetos/dopstercep/dopstercep.Application/obj/Debug/net5.0/dopstercep.Application.csproj.CopyComplete
+/home/felipe/projetos/dopstercep/dopstercep.Application/obj/Debug/net5.0/dopstercep.Application.dll
+/home/felipe/projetos/dopstercep/dopstercep.Application/obj/Debug/net5.0/ref/dopstercep.Application.dll
+/home/felipe/projetos/dopstercep/dopstercep.Application/obj/Debug/net5.0/dopstercep.Application.pdb

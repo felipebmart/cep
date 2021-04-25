@@ -1,0 +1,12 @@
+/home/felipe/projetos/dopstercep/dopstercep.Infra/bin/Debug/net5.0/dopstercep.Infra.deps.json
+/home/felipe/projetos/dopstercep/dopstercep.Infra/bin/Debug/net5.0/dopstercep.Infra.dll
+/home/felipe/projetos/dopstercep/dopstercep.Infra/bin/Debug/net5.0/ref/dopstercep.Infra.dll
+/home/felipe/projetos/dopstercep/dopstercep.Infra/bin/Debug/net5.0/dopstercep.Infra.pdb
+/home/felipe/projetos/dopstercep/dopstercep.Infra/obj/Debug/net5.0/dopstercep.Infra.csprojAssemblyReference.cache
+/home/felipe/projetos/dopstercep/dopstercep.Infra/obj/Debug/net5.0/dopstercep.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/projetos/dopstercep/dopstercep.Infra/obj/Debug/net5.0/dopstercep.Infra.AssemblyInfoInputs.cache
+/home/felipe/projetos/dopstercep/dopstercep.Infra/obj/Debug/net5.0/dopstercep.Infra.AssemblyInfo.cs
+/home/felipe/projetos/dopstercep/dopstercep.Infra/obj/Debug/net5.0/dopstercep.Infra.csproj.CoreCompileInputs.cache
+/home/felipe/projetos/dopstercep/dopstercep.Infra/obj/Debug/net5.0/dopstercep.Infra.dll
+/home/felipe/projetos/dopstercep/dopstercep.Infra/obj/Debug/net5.0/ref/dopstercep.Infra.dll
+/home/felipe/projetos/dopstercep/dopstercep.Infra/obj/Debug/net5.0/dopstercep.Infra.pdb
