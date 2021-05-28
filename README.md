@@ -5,4 +5,4 @@ dotnet restore
 
 dotnet build 
 
-dotnet run --project 
+dotnet run --project ./dopstercep.UI
